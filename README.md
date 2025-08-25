@@ -6,11 +6,11 @@
 ![Lucide React](https://img.shields.io/badge/Lucide-React-222222?style=for-the-badge&logo=lucide&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-This is a Next.js application that allows users to search for and generate CDN links for popular CSS and JavaScript libraries. The application uses the cdnjs API to search for libraries and provides a list of famous libraries for quick access.
+This is a Next.js application that allows users to search for and generate CDN links for popular CSS and JavaScript libraries. The application uses the CDNJS API to search for libraries and provides a list of famous libraries for quick access.
 
 ## Features
 
-- Search for CSS and JavaScript libraries using the cdnjs API.
+- Search for CSS and JavaScript libraries using the CDNJS API.
 - A curated list of famous libraries for quick access.
 - Select multiple libraries and generate CDN tags for them.
 - Copy the generated tags to the clipboard.
@@ -64,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ## Available Scripts
 
 - `npm run dev`: Runs the application in development mode.
-- `npm run build`: Builds the application for production.
+- `npm run build`: Builds the production application.
 - `npm run start`: Starts the production server.
 - `npm run lint`: Lints the code using ESLint.
 
